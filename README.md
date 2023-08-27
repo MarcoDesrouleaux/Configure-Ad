@@ -22,16 +22,15 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ## Step 1: Setting Up Azure Virtual Machines
 1. Log in to your Azure portal.
-2. Navigate to 'Create a resource' > 'Compute' > 'Virtual Machine.'
-3. Configure the VM settings and ensure they meet the requirements for an Active Directory deployment.
-4. Click 'Create' to deploy the VM.
+2. Create the 1st Virtual Machine by calling it DC-1, which stands for Domain Control.
+3. Create the 2nd Virtual Machine by calling it Client-1. Make sure it's the same resource group as VM1. For example: AD-Lab will be the name of the resource group.
 <table>
 <tr>
 <td>
 <img src="https://i.imgur.com/ExNiOVz.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/r232BXQ.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/jRETpct.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
@@ -42,6 +41,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 <td>
 <img src="https://i.imgur.com/1aenMj1.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/zTVTYZJ.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/EiPp5Zo.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
