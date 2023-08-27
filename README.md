@@ -28,10 +28,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
@@ -43,10 +43,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
@@ -60,10 +60,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
@@ -74,10 +74,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
@@ -89,10 +89,10 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
