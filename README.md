@@ -35,11 +35,31 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## Step 2: Install Active Directory Domain Services
 1. Connect to your Azure VM via Remote Desktop.
 2. Install Active Directory Domain Services (AD DS) using PowerShell or Server Manager.
 3. Run post-installation configuration.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td>
@@ -67,10 +87,30 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
 ### 3.2 Set Group Policies
 1. Open Group Policy Management.
 2. Create and link GPOs as necessary for your organization.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td>
@@ -96,6 +136,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## Conclusion
 Congratulations! You've successfully deployed an on-premises Active Directory environment in Azure. This allows for centralized identity and access management within your cloud resources.
+
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
