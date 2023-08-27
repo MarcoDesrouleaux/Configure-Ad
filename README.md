@@ -55,6 +55,18 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </tr>
 </table>
 
+## Step 3: Set Domain Controller’s NIC Private IP Address to Static
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/mm2vDsD.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/kBmgknG.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+
 ## Step 2: Install Active Directory Domain Services
 1. Connect to your Azure VM via Remote Desktop.
 2. Install Active Directory Domain Services (AD DS) using PowerShell or Server Manager.
