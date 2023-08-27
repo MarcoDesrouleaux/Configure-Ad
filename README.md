@@ -28,20 +28,20 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/ExNiOVz.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/r232BXQ.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/iBunwAW.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/1aenMj1.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
