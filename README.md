@@ -5,52 +5,97 @@
 <h1>On-premises Active Directory Deployed in the Cloud (Azure)</h1>
 This tutorial outlines the implementation of on-premises Active Directory within Azure Virtual Machines.<br />
 
+## Prerequisites
+- Active Microsoft Azure account
+- Familiarity with Active Directory and Azure
+- PowerShell installed
 
-<h2>Video Demonstration</h2>
-
-- ### [YouTube: How to Deploy on-premises Active Directory within Azure Compute](https://www.youtube.com)
-
-<h2>Environments and Technologies Used</h2>
-
+## Environments and Technologies Used
 - Microsoft Azure (Virtual Machines/Compute)
 - Remote Desktop
 - Active Directory Domain Services
 - PowerShell
 
-<h2>Operating Systems Used </h2>
-
+## Operating Systems Used
 - Windows Server 2022
 - Windows 10 (21H2)
 
-<h2>High-Level Deployment and Configuration Steps</h2>
+## Step 1: Setting Up Azure Virtual Machines
+1. Log in to your Azure portal.
+2. Navigate to 'Create a resource' > 'Compute' > 'Virtual Machine.'
+3. Configure the VM settings and ensure they meet the requirements for an Active Directory deployment.
+4. Click 'Create' to deploy the VM.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
-- Step 1
-- Step 2
-- Step 3
-- Step 4
+## Step 2: Install Active Directory Domain Services
+1. Connect to your Azure VM via Remote Desktop.
+2. Install Active Directory Domain Services (AD DS) using PowerShell or Server Manager.
+3. Run post-installation configuration.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
-<h2>Deployment and Configuration Steps</h2>
+## Step 3: Configure Active Directory
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+### 3.1 Create Users and Groups
+1. Open Active Directory Administrative Center.
+2. Navigate to the user and groups OU.
+3. Create users and groups as needed.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+### 3.2 Set Group Policies
+1. Open Group Policy Management.
+2. Create and link GPOs as necessary for your organization.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+   
+## Step 4: Test the Deployment
+1. On a separate Azure VM, join the domain.
+2. Test logging in with the user accounts you created.
+3. Verify that Group Policies are applied as expected.
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/W7CKDmP.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/QDtT4ul.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
-<p>
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.
-</p>
-<br />
+## Conclusion
+Congratulations! You've successfully deployed an on-premises Active Directory environment in Azure. This allows for centralized identity and access management within your cloud resources.
