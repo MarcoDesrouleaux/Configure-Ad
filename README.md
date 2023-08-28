@@ -66,8 +66,42 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<img src="https://i.imgur.com/CYRlCaY.png" alt="Image 1 Description" width="100%"/>
 
-## Step 2: Install Active Directory Domain Services
+## Step 2: Ensure Connectivity Between the Client and Domain Controller
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/w9aPUwc.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/t2vqxXM.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/kJvaIyE.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/Lcs4uhY.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/NC6ogFY.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<img src="https://i.imgur.com/CYRlCaY.png" alt="Image 1 Description" width="100%"/>
+
+## Step 3: Install Active Directory Domain Services
 1. Connect to your Azure VM via Remote Desktop.
 2. Install Active Directory Domain Services (AD DS) using PowerShell or Server Manager.
 3. Run post-installation configuration.
@@ -92,7 +126,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </tr>
 </table>
 
-## Step 3: Configure Active Directory
+## Step 4: Configure Active Directory
 
 ### 3.1 Create Users and Groups
 1. Open Active Directory Administrative Center.
