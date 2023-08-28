@@ -296,31 +296,28 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
    
-## Step 4: Test the Deployment
-1. On a separate Azure VM, join the domain.
-2. Test logging in with the user accounts you created.
-3. Verify that Group Policies are applied as expected.
+## Step 8: Create a Bunch of Additional Users and Attempt to Log Into Client-1 With One of the Users
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td>
