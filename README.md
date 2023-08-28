@@ -273,51 +273,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td>
+
 <img src="https://i.imgur.com/82KQxk1.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/L5nRURZ.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/DfOREAg.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/RjAjCgl.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
-
-
-
-
-
 
 ### 5.2 Set Group Policies
 1. Open Group Policy Management.
