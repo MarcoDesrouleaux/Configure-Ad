@@ -157,7 +157,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 
 ## Step 5: Configure Active Directory
 
-### 5.1 Create Users and Groups
+### Create Users and Groups
 1. Open Active Directory Administrative Center.
 2. Navigate to the user and groups OU.
 3. Create users and groups as needed.
@@ -231,6 +231,8 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+
+### Step 6: Join Client-1 to your domain (mydomain.com)
 <table>
 <tr>
 <td>
@@ -241,6 +243,43 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+
+
+
+
+
+
+
 
 ### 5.2 Set Group Policies
 1. Open Group Policy Management.
