@@ -150,7 +150,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/yBjCZXs.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/lpEPs3h.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
@@ -187,7 +187,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/lpEPs3h.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
