@@ -194,7 +194,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/unYO1XW.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
 <img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
