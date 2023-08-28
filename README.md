@@ -298,6 +298,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </table>
    
 ## Step 8: Create a Bunch of Additional Users and Attempt to Log Into Client-1 With One of the Users
+Script: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-Users.ps1
 <table>
 <tr>
 <td>
@@ -314,7 +315,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/7Cat0f0.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/yGOCiL0.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
