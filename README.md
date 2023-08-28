@@ -332,6 +332,16 @@ Script: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-
 <table>
 <tr>
 <td>
+<img src="https://i.imgur.com/jxLlqMi.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/opr5X9j.jpg" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
 <img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
