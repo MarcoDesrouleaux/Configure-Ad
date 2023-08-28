@@ -322,7 +322,7 @@ Script: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/goMj9h1.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
 <img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
