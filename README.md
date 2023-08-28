@@ -99,6 +99,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/CyZwo4Q.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/lM6EaRE.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 <img src="https://i.imgur.com/CYRlCaY.png" alt="Image 1 Description" width="100%"/>
 
 ## Step 3: Install Active Directory Domain Services
