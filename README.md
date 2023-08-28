@@ -239,24 +239,24 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/qmfw6zw.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/bJaLjTX.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/gekWh9q.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/yaMSF2a.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/Cjz5ae4.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
 <img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
