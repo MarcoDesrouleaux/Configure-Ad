@@ -72,27 +72,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/w9aPUwc.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/t2vqxXM.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/kJvaIyE.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
 <img src="https://i.imgur.com/Lcs4uhY.png" alt="Image 1 Description" width="100%"/>
 </td>
+<td>
+<img src="https://i.imgur.com/NC6ogFY.png" alt="Image 1 Description" width="100%"/>
+</td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/NC6ogFY.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/YNX10tD.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/w9aPUwc.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/t2vqxXM.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
 <img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
