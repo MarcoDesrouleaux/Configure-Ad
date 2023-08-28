@@ -244,4 +244,4 @@ This tutorial outlines the implementation of on-premises Active Directory within
 ## Conclusion
 Congratulations! You've successfully deployed an on-premises Active Directory environment in Azure. This allows for centralized identity and access management within your cloud resources.
 
-<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
