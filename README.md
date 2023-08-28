@@ -301,17 +301,17 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/2RwoWYg.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/rrhlEAm.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
 <table>
 <tr>
 <td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/7Cat0f0.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
 <img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
