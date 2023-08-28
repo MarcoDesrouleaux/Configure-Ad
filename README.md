@@ -50,7 +50,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/zTVTYZJ.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/EiPp5Zo.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/lM6EaRE.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
