@@ -211,6 +211,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/R7cpHAL.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/g4hNqyC.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
 ### 5.2 Set Group Policies
 1. Open Group Policy Management.
