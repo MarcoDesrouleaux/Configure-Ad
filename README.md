@@ -273,7 +273,6 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
-
 <img src="https://i.imgur.com/82KQxk1.png" alt="Image 1 Description" width="100%"/>
 
 ### 5.2 Set Group Policies
