@@ -275,9 +275,27 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </table>
 <img src="https://i.imgur.com/82KQxk1.png" alt="Image 1 Description" width="100%"/>
 
-### 5.2 Set Group Policies
-1. Open Group Policy Management.
-2. Create and link GPOs as necessary for your organization.
+### Step 7: Setup Remote Desktop for Non-Administrative Users on Client-1
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/L5nRURZ.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/DfOREAg.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/RjAjCgl.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 <table>
 <tr>
 <td>
