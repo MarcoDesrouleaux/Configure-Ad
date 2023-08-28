@@ -315,7 +315,7 @@ Script: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-
 <img src="https://i.imgur.com/7Cat0f0.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/yGOCiL0.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/cTet72U.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
