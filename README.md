@@ -339,18 +339,7 @@ Script: https://github.com/joshmadakor1/AD_PS/blob/master/Generate-Names-Create-
 </td>
 </tr>
 </table>
-<table>
-<tr>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-<td>
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
-</td>
-</tr>
-</table>
+<img src="https://i.imgur.com/Uxefv5a.png"" alt="Image 1 Description" width="100%"/>
 
 ## Conclusion
 Congratulations! You've successfully deployed an on-premises Active Directory environment in Azure. This allows for centralized identity and access management within your cloud resources.
-
-<img src="https://i.imgur.com/FoGR4XF.png" alt="Image 1 Description" width="100%"/>
