@@ -134,6 +134,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 </tr>
 </table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/ygwWzLj.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
 
 ## Step 4: Configure Active Directory
 
@@ -148,6 +158,16 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </td>
 <td>
 <img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+</tr>
+</table>
+<table>
+<tr>
+<td>
+<img src="https://i.imgur.com/oixcf9e.png" alt="Image 1 Description" width="100%"/>
+</td>
+<td>
+<img src="https://i.imgur.com/Du8f3Wc.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
