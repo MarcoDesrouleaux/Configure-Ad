@@ -68,7 +68,7 @@ This tutorial outlines the implementation of on-premises Active Directory within
 </table>
 <img src="https://i.imgur.com/CYRlCaY.png" alt="Image 1 Description" width="100%"/>
 
-## Step 2: Ensure Connectivity Between the Client and Domain Controller
+## Step 3: Ensure Connectivity Between the Client and Domain Controller
 <table>
 <tr>
 <td>
@@ -105,13 +105,12 @@ This tutorial outlines the implementation of on-premises Active Directory within
 <img src="https://i.imgur.com/CyZwo4Q.png" alt="Image 1 Description" width="100%"/>
 </td>
 <td>
-<img src="https://i.imgur.com/lM6EaRE.png" alt="Image 1 Description" width="100%"/>
+<img src="https://i.imgur.com/yjxoyCb.png" alt="Image 1 Description" width="100%"/>
 </td>
 </tr>
 </table>
-<img src="https://i.imgur.com/CYRlCaY.png" alt="Image 1 Description" width="100%"/>
 
-## Step 3: Install Active Directory Domain Services
+## Step 4: Install Active Directory Domain Services
 1. Connect to your Azure VM via Remote Desktop.
 2. Install Active Directory Domain Services (AD DS) using PowerShell or Server Manager.
 3. Run post-installation configuration.
